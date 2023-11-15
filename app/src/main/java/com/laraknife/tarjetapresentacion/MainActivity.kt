@@ -151,7 +151,7 @@ private fun TarjetaPresentacion() {
 
 @Preview(showSystemUi = true)
 @Composable
-fun GreetingPreview() {
+fun TarjetaPreview() {
     TarjetaPresentacionTheme {
         TarjetaPresentacion()
     }
