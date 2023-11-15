@@ -35,6 +35,16 @@ import androidx.compose.ui.unit.sp
 import com.laraknife.tarjetapresentacion.ui.theme.TarjetaPresentacionTheme
 
 class MainActivity : ComponentActivity() {
+
+    /*
+    Hecho por Brayan Josue Hernández Lara (LaraKnife)
+    Domingo 19 de Noviembre de 2023
+    Número de control: 192T0220
+    Materia: Desarrollo de aplicaciones móviles
+    Ingeniería en Sistemas Computacionales
+    Noveno Semestre
+     */
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
